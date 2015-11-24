@@ -1,0 +1,6 @@
+configuration:
+
+   # Path information for multiple platforms
+    windows_path:
+        type: str
+        description: The path to the application executable on Windows.
